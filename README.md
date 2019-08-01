@@ -10,16 +10,16 @@ It's recommended to download these files to a directory whose absolute path just
 2. run `1. open command here.bat`
 3. run `2. set to utf8.bat` (optional)
 4. right click to run cmd in current directory
-5. for Windows XP users, please go to directory `XP`
-    a. run `xp run command here.reg`
-    b. `xp_cmd_source_code_pro_1.reg` and `xp_cmd_source_code_pro_2.reg` are optional
+5. for Windows XP users, please go to directory `XP`  
+    a. run `xp run command here.reg`  
+    b. `xp_cmd_source_code_pro_1.reg` and `xp_cmd_source_code_pro_2.reg` are optional  
     c. right click on directory, then choose `run command here`
 ## 安装
 1. 安装位于`source-code-pro-ttf`内的字体（可选操作）
 2. 运行 `1. open command here.bat`  
 3. 运行 `2. set to utf8.bat` （可选操作）
 4. 右键在当前目录打开命令行
-5. 对于 Windows XP 用户，请到 `XP` 目录下
-    a. 运行 `xp run command here.reg`
-    b. `xp_cmd_source_code_pro_1.reg` 和 `xp_cmd_source_code_pro_2.reg` 是可选的
+5. 对于 Windows XP 用户，请到 `XP` 目录下  
+    a. 运行 `xp run command here.reg`  
+    b. `xp_cmd_source_code_pro_1.reg` 和 `xp_cmd_source_code_pro_2.reg` 是可选的  
     c. 在文件夹上右键，选择 `在此处打开命令行`
